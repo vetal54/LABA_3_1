@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\obj\Debug\Lr2Task1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\obj\Debug\Lr2Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\bin\Debug\Lr2Task1.exe.config
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\bin\Debug\Lr2Task1.exe
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\bin\Debug\Lr2Task1.pdb
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\obj\Debug\Lr2Task1.exe
+C:\Users\user\source\repos\Lr2Task1\Lr2Task1\obj\Debug\Lr2Task1.pdb
